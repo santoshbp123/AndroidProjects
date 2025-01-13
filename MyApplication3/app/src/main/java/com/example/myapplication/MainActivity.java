@@ -17,5 +17,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main21);
         setContentView(R.layout.activity_main31);
         setContentView(R.layout.activity_main);
+        Class c = new class(0);
+                c.call()
+      san s = new san();
+                s.call();
+                santosh
     }
 }
