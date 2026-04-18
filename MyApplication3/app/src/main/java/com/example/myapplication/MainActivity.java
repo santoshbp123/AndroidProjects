@@ -20,6 +20,7 @@ public class MainActivity extends AppCompatActivity {
         Class c = new class(0);
         //changes to circle to rectanglw
                 c.call()
+                System.out.prontln("prakash)
       san s = new san();
                 s.call();
                 santosh
