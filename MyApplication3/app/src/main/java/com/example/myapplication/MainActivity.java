@@ -22,7 +22,8 @@ public class MainActivity extends AppCompatActivity {
                 c.call()
                 System.out.prontln("prakash)
                 System.out.println("Ramesh");
-               
+                System.out.peintln("santosh");
+
       san s = new san();
                 s.call();
                 santosh
